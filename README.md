@@ -1,7 +1,7 @@
 # Human Resources Management dB
 
 ## Description
-This project is a sql database which can be utilized to manage the human resources inside a generic agenzy. We supposed there to have a software development agency including employees such as project managers, design sepialists and others.
+This project is a sql database which can be utilized to manage the human resources inside a generic agency. We supposed there to have a software development agency including employees such as project managers, design sepialists and others.
 All of the instrments adopted are free to use and to consult. We also point out 'Lucidchart' for the Entity-Relation schema above.
 
 ## DataBase scheme
